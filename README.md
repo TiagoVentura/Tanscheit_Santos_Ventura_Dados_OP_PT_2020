@@ -9,7 +9,7 @@ Neste repositório, estão disponíveis os scripts (em R) e dados para replicaç
 
 ## Tutorial
 
-O repósitório possui três arquivos principais. 
+O repósitório possui quatro arquivos principais. 
 
 - `analises.r` = código em R para replicação do artigo. Para fins de replicação, considere ler as dependências dos pacotes na minha sessão de R. 
 
@@ -17,8 +17,9 @@ O repósitório possui três arquivos principais.
 
 - `models.Rdata` = Cópia do meu R Workspace com todos os modelos e figuras salvas geradas a partie do código `analises.r`
 
+- `descricao_banco_de_dados.md` = arquivo com a descrição das variáveis do banco de dados e sua fonte. 
 
-Para baixar todos os arquivos, você pode simplesmente digitar o seguinte em sua linha de comando: 
+Para baixar todos os arquivos, você pode digitar  em sua linha de comando: 
 
 ```bash
 git clone https://github.com/TiagoVentura/Tanscheit_Santos_Ventura_Dados_OP_PT_202

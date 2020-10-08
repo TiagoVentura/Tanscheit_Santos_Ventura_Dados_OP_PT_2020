@@ -51,6 +51,7 @@ Banco de Dados
 
 -   `organ` = número de organizações da sociedade civil
 
--   `op`= adoção do OP no município
+-   `op`= adoção do OP no município (dados cedidos por Brian Wampler)
 
--   `esq` = proporção de votos dos campos não majortários do PT no PED.
+-   `esq` = proporção de votos dos campos não majortários do PT no PED
+    (Dados cedidos pela SORG-PT).
